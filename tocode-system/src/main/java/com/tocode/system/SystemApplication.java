@@ -1,7 +1,6 @@
 package com.tocode.system;
 
 
-import com.tocode.common.constant.NumberConstants;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
